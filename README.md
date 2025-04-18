@@ -1,2 +1,2 @@
 # rineez-livares.github.io
-This Rineez Ahmed's minimalist ATS friendly resume
+This is Rineez Ahmed's minimalist ATS friendly resume
